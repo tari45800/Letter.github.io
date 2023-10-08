@@ -30,7 +30,7 @@ const AppDiv = styled.div``;
 function App() {
   return (
     <AppContainer>
-      <div className="title"> 다은이에게</div>c
+      <div className="title"> 다은이에게</div>
       <Observer delay={1}>
         <div>
           <div>벌써 코가 시큰거리는 게</div>
